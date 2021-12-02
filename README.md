@@ -18,10 +18,6 @@
   <img align="center" alt="Felipe-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
   
-  <div style="display: flex; justify-content: flex-end">
-  <a href="https://app.daily.dev/Felipe_octopus"><img src="https://api.daily.dev/devcards/89afa9a706cf4465a679f877cbf12df6.png?r=i7o" width="150" alt="Felipe Oliveira's Dev Card"/></a>
-  </div>
-  
   ##
   
   <div>
