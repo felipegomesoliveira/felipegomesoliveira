@@ -1,4 +1,4 @@
-### Oi sou Felipe Oliveira ☺
+### Seja bem vindo e não repara na bagunça 😅
 
 <div align="center">
   <a href="https://github.com/felipegomesoliveira">
